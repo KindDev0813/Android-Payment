@@ -1,1 +1,0 @@
-# StripePaymentGatewayHelper_Android
