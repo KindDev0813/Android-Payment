@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">StripePaymentModule</string>
+
+    <string name="progressMessage">Creating Token&#8230;</string>
+    <string name="validationErrors">Validation Errors</string>
+    <string name="ok">OK</string>
+    <string name="addPayment">Add Payment details</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+</resources>

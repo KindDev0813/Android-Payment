@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="spinnerItem">#AAAAAA</color>
+    <color name="editText">#AAAAAA</color>
+    <color name="buttonText">#EEEEEE</color>
+    <color name="headerText">#EEEEEE</color>
+    <color name="underline">#5458DF</color>
+    <color name="fadedBlue">#AA5458DF</color>
+</resources>
